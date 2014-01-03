@@ -1,0 +1,23 @@
+{
+  "name": "webtest",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "~3.4.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/indepth90/myfirstrepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indepth90/myfirstrepo/issues"
+  },
+  "homepage": "https://github.com/indepth90/myfirstrepo"
+}
